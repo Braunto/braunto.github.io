@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi web
 
 You can use the [editor on GitHub](https://github.com/Braunto/braunto.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
